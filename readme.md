@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Service Catalogue is a Spring Boot microservice that provides a RESTful API for managing services offered by a business. It supports full CRUD operations (Create, Read, Update, Delete) with pagination support and comprehensive error handling.
+The Service Catalogue is a Spring Boot microservice that provides a RESTful API for managing services offered by MTBS. It supports full CRUD operations (Create, Read, Update, Delete) with pagination support and comprehensive error handling.
 
 **Version**: 1.0-SNAPSHOT  
 **Base URL**: `http://localhost:8081`  
